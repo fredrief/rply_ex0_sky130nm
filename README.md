@@ -5,11 +5,10 @@
 fredrief
 
 # Why
- <explain why you made this module>
+ To get started with sky130
 
 # How
- <explain short how you made this module>
-
+ cicconf
 
 # What
 
